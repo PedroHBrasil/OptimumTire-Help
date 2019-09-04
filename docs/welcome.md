@@ -32,7 +32,6 @@ The following is a list of features that will be available in future updates. Pl
 1. [Introduction](1_Introduction/1_Introduction.md)
     * [Installation Requirements](1_Introduction/A_Installation_Requirements.md)
     * [License](1_Introduction/B_License.md)
-
 2. [Screen Layout](2_Screen_Layout/2_Screen_Layout.md)
     * [Tire Project Tree](2_Screen_Layout/A_Tire_Project_Tree.md)
     * [Data Entry Form](2_Screen_Layout/B_Data_Entry_Form.md)
@@ -43,7 +42,6 @@ The following is a list of features that will be available in future updates. Pl
     * [Data Cropping](3_Raw_Tire_Data/C_Data_Cropping.md)
     * [Data Collapsing](3_Raw_Tire_Data/D_Data_Collapsing.md)
     * [Exporting Data](3_Raw_Tire_Data/E_Exporting_Data.md)
-
 4. [Tire Models](4_Tire_Models/4_Tire_Models.md)
     * [Manually Import Model](4_Tire_Models/A_Manually_Import_Model.md)
     * [Import And Export Models](4_Tire_Models/B_Import_And_Export_Models.md)
@@ -56,7 +54,6 @@ The following is a list of features that will be available in future updates. Pl
     * [Standard Graphs](5_Graphing/A_Standard_Graphs.md)
     * [Report Graphs](5_Graphing/B_Report_Graphs.md)
     * [Graph Area Options](5_Graphing/C_Graph_Area_Options.md)
-
 6. [Custom Models](6_Custom_Models/6_Custom_Models.md)
     * [Creating Custom Models](6_Custom_Models/A_Creating_Custom_Models.md)
     * [Importing Custom Models in OptimumTire](6_Custom_Models/B_Importing_Custom_Models_In_OptimumTire.md)
