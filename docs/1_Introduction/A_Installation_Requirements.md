@@ -1,6 +1,6 @@
 ---
-Title: Introduction
-summary: This section describes the installation requirements.
+Title: Installation Requirements
+summary: This section specifies the installation requirements.
 authors:
     - Pedro Brasil   
 date: 2019/9/4
