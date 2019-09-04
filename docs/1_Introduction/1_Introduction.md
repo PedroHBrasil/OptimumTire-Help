@@ -1,6 +1,6 @@
 ---
 Title: Introduction
-summary: This section briefly descriver the document's content.
+summary: This section briefly describes the document's content.
 authors:
     - Pedro Brasil   
 date: 2019/9/4
