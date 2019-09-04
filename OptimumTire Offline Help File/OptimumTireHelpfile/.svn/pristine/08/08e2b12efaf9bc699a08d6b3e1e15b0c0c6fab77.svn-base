@@ -1,0 +1,144 @@
+
+\documentclass[letterpaper,twoside,12pt]{report}
+
+%%%%%%%%%%%%% Language %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{colortbl} %creates fill colours etc in tables
+\usepackage[USenglish]{babel} %francais, polish, spanish, ...
+\usepackage[T1]{fontenc}
+\usepackage[ansinew]{inputenc}
+\usepackage{lmodern} %Type1-font for non-english texts and characters
+\usepackage{multirow}
+\usepackage{graphicx} %%For loading graphic files
+\usepackage{float} %allows graphics to be positioned accurately
+\usepackage{longtable}
+
+%%%%%%%%%%%%%Page setup%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\oddsidemargin 0in
+\evensidemargin 0in
+\textwidth 6.5in
+\headheight 0.0in
+\topmargin -0.75in
+\textheight 8.75in
+
+\usepackage{color}
+\usepackage{array}
+\usepackage{colortbl}
+\usepackage{fancyhdr}
+\fancyhead{}
+\renewcommand{\headheight}{0.6in}
+\fancyhead[R]{\includegraphics[height=.4in]{OptimumT_Logo_full_text.png}}
+
+%footer definition
+\fancyfoot{}
+\fancyfoot[C]{\thepage}  
+\fancyfoot[R]{Optimum T \\ Help File} 
+\pagestyle{fancyplain}
+
+%Paragraph settings
+\setlength{\parindent}{0pt} 
+\setlength{\parskip}{1.5ex}
+
+%% Math Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+
+\usepackage[pdftex,pdfpagelabels,hypertexnames=true,plainpages=false,naturalnames, bookmarks=true, bookmarksnumbered=true, breaklinks=true, linkbordercolor={1 1 1}]{hyperref} %\usepackage[,pagebackref,]{hyperref}
+%\usepackage[pdftex, bookmarks=true, bookmarksnumbered=true, breaklinks=true, linkbordercolor={1 1 1}]{hyperref}
+\usepackage[all]{hypcap}
+
+%define colors to be used for section headings and table background fills
+\definecolor{bblue}{rgb}{0.2,0.3,0.5}
+\definecolor{tblue}{rgb}{0.392, 0.584, 0.929}
+\definecolor{ttblue}{rgb}{0.795, 0.88, 1}
+
+%Redefine the subsection definition
+%\makeatletter
+%\renewcommand{\subsection}{\@startsection
+%{subsection}
+%{3}
+%{0mm}
+%{-3.5ex \@plus -1ex \@minus -.2ex}
+%{2.3ex \@plus.2ex}
+%{\normalfont\large\bfseries\textcolor{bblue}}}
+%\makeatother
+
+%Redefine the section definition to include a page break before each new section
+%\makeatletter
+%\renewcommand{\section}{\@startsection
+%{section}
+%{2}
+%{0mm}
+%{-3.5ex \@plus -1ex \@minus -.2ex}
+%{2.3ex \@plus.2ex}
+%{\normalfont\Large\bfseries\textcolor{bblue}}}
+%\makeatother
+
+%redefine the chapeter heading to remove the word "chapter"
+%\makeatletter
+%\renewcommand{\@makechapterhead}[1]{%
+%\vspace*{0 pt}
+%{\setlength{\parindent}{0pt} \raggedright \normalfont
+%\Huge \bfseries \textcolor{bblue}{ \thechapter.\ #1}
+%\par\nobreak\vspace{30 pt}}}
+%\makeatother
+
+%put dot spacing in contents page
+%\makeatletter
+%\renewcommand\l@chapter[2]{%
+%  \ifnum \c@tocdepth >\z@
+%    \addpenalty\@secpenalty
+%    \addvspace{1.0em \@plus\p@}%
+%    \setlength\@tempdima{1.5em}%
+%    \begingroup
+%      \parindent \z@ \rightskip \@pnumwidth
+%      \parfillskip -\@pnumwidth
+%      \leavevmode \bfseries
+%      \advance\leftskip\@tempdima
+%      \hskip -\leftskip
+%      #1\nobreak\ 
+%      \leaders\hbox{$\m@th\mkern \@dotsep mu\hbox{.}\mkern \@dotsep mu$}
+%     \hfil \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
+%    \endgroup
+%  \fi}
+%\makeatother
+
+% Use the chapter number for the figures and tables
+%\renewcommand{\thefigure}{\thesection.\arabic{figure}}
+%\renewcommand{\thetable}{\thesection.\arabic{table}}
+
+%insert an white space at the bottom of the page
+\raggedbottom 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\include{TitlePage}
+
+\include{Welcome}
+\include{Feedback}
+
+\tableofcontents
+
+\include{Introduction}
+\include{InstallationRequirements}
+\include{License}
+\include{ScreenLayout}
+\include{RawTireData}
+\include{TireModels}
+\include{graphing}
+\include{CustomModels} %moketag uncomment this when the custom models package is ready to be released
+\include{AdditionalFeatures}
+\include{References}
+\include{AdditionalInformation}
+
+
+%\listoffigures
+%\addcontentsline{toc}{chapter}{List of Figures}
+
+%\listoftables
+%\addcontentsline{toc}{chapter}{List of Tables}
+
+\end{document}
+

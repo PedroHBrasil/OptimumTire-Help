@@ -1,0 +1,76 @@
+\chapter*{Installation Requirements}
+\addcontentsline{toc}{chapter}{Installation Requirements}
+\label{sec:InstallationRequirements}
+
+\section*{Hardware Requirements}
+\label{sec:HardwareRequirements}
+
+\subsection*{Processor}
+\label{sec:Processor}
+
+\begin{itemize}
+\item	Intel® Pentium 4™, Intel® Xeon™, and Intel® Core™  
+\item	AMD® Athlon™, AMD® Opteron™, and AMD® Turion™ 
+\end{itemize}
+
+\subsection*{Memory}
+\label{sec:Memory}
+
+\begin{itemize}
+\item	Minimum: 512MB RAM
+\item	Recommended: 1GB RAM or more
+\item	Virtual Memory recommended to be twice the amount of RAM 
+\end{itemize}
+
+\subsection*{Storage}
+\label{sec:Storage}
+
+\begin{itemize}
+\item Free space of at least 100MB. Includes installation of OptimumT® and required software components (see below)
+\end{itemize}
+
+\subsection*{Display Adapter}
+\label{sec:DisplayAdapter}
+
+\begin{itemize}
+\item	Minimum: Microsoft® DirectX® 9.0c capable graphics card with 32MB RAM
+\item	Recommended: DirectX® 9.0c capable NVIDIA® GeForce® or ATI® Radeon® with 128MB RAM or higher
+\end{itemize}
+
+\subsection*{Display Unit}
+\label{sec:DisplayUnit}
+
+\begin{itemize}
+\item	Minimum: 15" Screen with resolution of 1024 x 768 pixels
+\item	Recommended: 19" Screen with resolution of 1280 x 1024 pixels
+\end{itemize}
+
+\subsection*{Other}
+\label{sec:Other}
+
+\begin{itemize}
+\item	Mouse or other pointing device
+\end{itemize}
+
+\section*{Software Requirements}
+\label{sec:SoftwareRequirements}
+
+\subsection*{Operating System}
+\label{sec:OperatingSystem}
+
+\begin{itemize}
+\item Microsoft® Windows® XP (32 or 64bit) or Microsoft® Windows® Vista (32 or 64bit) or Microsoft® Windows® 7 (32 or 64bit)
+\end{itemize}
+
+\subsection*{Required Software Components}
+\label{sec:RequiredSoftwareComponents}
+
+\begin{itemize}
+\item Microsoft® .NET® Framework 2.0 or higher
+\end{itemize}
+
+\subsection*{Other}
+
+\begin{itemize}
+\item Microsoft® Excel™ version 10 or higher for import or export of data
+\end{itemize}

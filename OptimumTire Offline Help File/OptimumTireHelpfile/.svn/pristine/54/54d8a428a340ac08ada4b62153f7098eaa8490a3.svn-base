@@ -1,0 +1,130 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Tire Models}{33}{chapter.3}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sec:TireModels}{{3}{33}{Tire Models}{chapter.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Manually Input Model}{33}{section.3.1}}
+\newlabel{sec:ManuallyInputModel}{{3.1}{33}{Manually Input Model}{section.3.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Tire Model Input Form}}{35}{figure.3.1}}
+\newlabel{fig:TireModelForm}{{3.1}{35}{Tire Model Input Form}{figure.3.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Import and Export Models}{36}{section.3.2}}
+\newlabel{sec:ImportandExportModels}{{3.2}{36}{Import and Export Models}{section.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Import Tire Model}}{36}{figure.3.2}}
+\newlabel{fig:ImportTireModel}{{3.2}{36}{Import Tire Model}{figure.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Export Tire Model}}{37}{figure.3.3}}
+\newlabel{fig:ExportModel}{{3.3}{37}{Export Tire Model}{figure.3.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}Export Templates}{37}{subsection.3.2.1}}
+\newlabel{sec:ImportandExportModelsExportTemplate}{{3.2.1}{37}{Export Templates}{subsection.3.2.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}Excel Export Templates}{38}{subsection.3.2.2}}
+\newlabel{sec:ExcelExportTemplate}{{3.2.2}{38}{Excel Export Templates}{subsection.3.2.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Example Excel Export Template}}{39}{figure.3.4}}
+\newlabel{fig:ExcelTemplate}{{3.4}{39}{Example Excel Export Template}{figure.3.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Fitting Models to Raw Data}{39}{section.3.3}}
+\newlabel{sec:FittingModelstoRawData}{{3.3}{39}{Fitting Models to Raw Data}{section.3.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Pure Lateral Model}{40}{subsection.3.3.1}}
+\newlabel{sec:PureLateralModel}{{3.3.1}{40}{Pure Lateral Model}{subsection.3.3.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces Selecting the Tire Model to be Fit}}{40}{figure.3.5}}
+\newlabel{fig:TireModelSelection}{{3.5}{40}{Selecting the Tire Model to be Fit}{figure.3.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces Model Fitting Selection}}{41}{figure.3.6}}
+\newlabel{fig:ModelFittingSelection}{{3.6}{41}{Model Fitting Selection}{figure.3.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces Model Constraints}}{42}{figure.3.7}}
+\newlabel{fig:Constraints}{{3.7}{42}{Model Constraints}{figure.3.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.8}{\ignorespaces Coefficient Boundary}}{43}{figure.3.8}}
+\newlabel{fig:CoefficientBoundaries}{{3.8}{43}{Coefficient Boundary}{figure.3.8}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.9}{\ignorespaces Coefficient Boundary Editor}}{44}{figure.3.9}}
+\newlabel{fig:NewCoefficientBoundary}{{3.9}{44}{Coefficient Boundary Editor}{figure.3.9}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.10}{\ignorespaces The weighting function editor}}{45}{figure.3.10}}
+\newlabel{fig:WeightingFunction}{{3.10}{45}{The weighting function editor}{figure.3.10}{}}
+\newlabel{sec:models:solverparameters}{{3.3.1}{46}{Solver Parameters and Error Evaluation}{section*.29}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.11}{\ignorespaces Solver Parameters and Error Evaluation}}{46}{figure.3.11}}
+\newlabel{fig:SolverParameters}{{3.11}{46}{Solver Parameters and Error Evaluation}{figure.3.11}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.12}{\ignorespaces Model Fitting Convergence and Error}}{49}{figure.3.12}}
+\newlabel{fig:ModelFitting}{{3.12}{49}{Model Fitting Convergence and Error}{figure.3.12}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.13}{\ignorespaces Lateral Force vs. Slip Angle at Different Inclination Angles}}{50}{figure.3.13}}
+\newlabel{fig:FySA}{{3.13}{50}{Lateral Force vs. Slip Angle at Different Inclination Angles}{figure.3.13}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.14}{\ignorespaces Lateral Force vs. Normal Load at Different Slip Angles}}{51}{figure.3.14}}
+\newlabel{fig:FyFz}{{3.14}{51}{Lateral Force vs. Normal Load at Different Slip Angles}{figure.3.14}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Aligning Torque Model}{51}{subsection.3.3.2}}
+\newlabel{sec:AligningTorqueModel}{{3.3.2}{51}{Aligning Torque Model}{subsection.3.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.15}{\ignorespaces Advanced Fitting Options}}{52}{figure.3.15}}
+\newlabel{fig:AdvancedFitting}{{3.15}{52}{Advanced Fitting Options}{figure.3.15}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.16}{\ignorespaces Specify Coefficients to be Fit}}{53}{figure.3.16}}
+\newlabel{fig:MzPureFit}{{3.16}{53}{Specify Coefficients to be Fit}{figure.3.16}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.17}{\ignorespaces Aligning Torque vs. Slip Angle at Different Inclination Angles}}{54}{figure.3.17}}
+\newlabel{fig:MzSA}{{3.17}{54}{Aligning Torque vs. Slip Angle at Different Inclination Angles}{figure.3.17}{}}
+\newlabel{sec:ModelScalingFactors}{{3.3.2}{54}{Aligning Torque Model}{figure.3.17}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.3}Model Scaling Factors}{54}{subsection.3.3.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.18}{\ignorespaces Lateral Force vs. Slip Angle for the Model and Data before Scaling}}{55}{figure.3.18}}
+\newlabel{fig:UnscaledData}{{3.18}{55}{Lateral Force vs. Slip Angle for the Model and Data before Scaling}{figure.3.18}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.19}{\ignorespaces New Scaling Factor}}{57}{figure.3.19}}
+\newlabel{fig:NewScalingFactor}{{3.19}{57}{New Scaling Factor}{figure.3.19}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.20}{\ignorespaces Lateral Force vs. Slip Angle for the Model and Data after Scaling}}{58}{figure.3.20}}
+\newlabel{fig:ScaledModel}{{3.20}{58}{Lateral Force vs. Slip Angle for the Model and Data after Scaling}{figure.3.20}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.4}Pure and Combined Longitudinal Model}{59}{subsection.3.3.4}}
+\newlabel{sec:PureandCombinedLongitudinalModel}{{3.3.4}{59}{Pure and Combined Longitudinal Model}{subsection.3.3.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.21}{\ignorespaces Fitting Multiple Models Simultaneously}}{60}{figure.3.21}}
+\newlabel{fig:MultipleModels}{{3.21}{60}{Fitting Multiple Models Simultaneously}{figure.3.21}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.22}{\ignorespaces Longitudinal Force vs. Slip Angle at Different Slip Angles}}{61}{figure.3.22}}
+\newlabel{fig:FxSR}{{3.22}{61}{Longitudinal Force vs. Slip Angle at Different Slip Angles}{figure.3.22}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.23}{\ignorespaces Longitudinal Force vs. Normal Load at Different Slip Ratios}}{62}{figure.3.23}}
+\newlabel{fig:FxFz}{{3.23}{62}{Longitudinal Force vs. Normal Load at Different Slip Ratios}{figure.3.23}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.5}Combined Lateral Model}{62}{subsection.3.3.5}}
+\newlabel{sec:CombinedLateralModel}{{3.3.5}{62}{Combined Lateral Model}{subsection.3.3.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.24}{\ignorespaces Fitting with a Scaling Factor}}{63}{figure.3.24}}
+\newlabel{fig:FittingwithScalingFactor}{{3.24}{63}{Fitting with a Scaling Factor}{figure.3.24}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.25}{\ignorespaces Friction Ellipse}}{64}{figure.3.25}}
+\newlabel{fig:FrictionEllipse}{{3.25}{64}{Friction Ellipse}{figure.3.25}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.6}Additional Models}{64}{subsection.3.3.6}}
+\newlabel{sec:AdditionalModels}{{3.3.6}{64}{Additional Models}{subsection.3.3.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Pacejka Models (Mx Comb and My Comb are not available in the Pacejka \IeC {\textquoteright }96 model)}}{65}{table.3.1}}
+\newlabel{tbl:PacejkaModels}{{3.1}{65}{Pacejka Models (Mx Comb and My Comb are not available in the Pacejka ’96 model)}{table.3.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Model Fitting Order}{65}{section.3.4}}
+\newlabel{sec:ModelFittingOrder}{{3.4}{65}{Model Fitting Order}{section.3.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.26}{\ignorespaces Model Fitting Requirements}}{66}{figure.3.26}}
+\newlabel{fig:ModelFittingRequirements}{{3.26}{66}{Model Fitting Requirements}{figure.3.26}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.2}{\ignorespaces Model Fitting Order with Pure Lateral and Combined Data}}{67}{table.3.2}}
+\newlabel{tbl:ModelFittingOrder}{{3.2}{67}{Model Fitting Order with Pure Lateral and Combined Data}{table.3.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.3}{\ignorespaces Model Fitting Order with Pure Lateral, Pure Longitudinal and Combined Data}}{67}{table.3.3}}
+\newlabel{tbl:ModelFittingOrder2}{{3.3}{67}{Model Fitting Order with Pure Lateral, Pure Longitudinal and Combined Data}{table.3.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}Model Coefficient Form}{67}{section.3.5}}
+\newlabel{sec:ModelCoefficientForm}{{3.5}{67}{Model Coefficient Form}{section.3.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.27}{\ignorespaces Model Coefficient Form}}{68}{figure.3.27}}
+\newlabel{fig:ModelCoefficientForm}{{3.27}{68}{Model Coefficient Form}{figure.3.27}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.6}Adjusting Models}{68}{section.3.6}}
+\newlabel{sec:AdjustingModels}{{3.6}{68}{Adjusting Models}{section.3.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.28}{\ignorespaces Model Adjustment Preview Feature}}{69}{figure.3.28}}
+\newlabel{fig:ModelAdjustment}{{3.28}{69}{Model Adjustment Preview Feature}{figure.3.28}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.29}{\ignorespaces Creating a boundary from an existing model.}}{70}{figure.3.29}}
+\newlabel{fig:BoundaryFromModel}{{3.29}{70}{Creating a boundary from an existing model}{figure.3.29}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.30}{\ignorespaces To save the boundary created from a model, specify the name to save it as in this dialog.}}{70}{figure.3.30}}
+\newlabel{fig:BoundaryFromModelSaveAs}{{3.30}{70}{To save the boundary created from a model, specify the name to save it as in this dialog}{figure.3.30}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.7}Creating Coefficient Boundaries From an Existing Model}{70}{section.3.7}}
+\newlabel{sec:boundaryFromModel}{{3.7}{70}{Creating Coefficient Boundaries From an Existing Model}{section.3.7}{}}
+\@setckpt{TireModels}{
+\setcounter{page}{71}
+\setcounter{equation}{0}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{3}
+\setcounter{section}{7}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{30}
+\setcounter{table}{3}
+\setcounter{float@type}{4}
+\setcounter{LT@tables}{0}
+\setcounter{LT@chunks}{0}
+\setcounter{parentequation}{0}
+\setcounter{Item}{0}
+\setcounter{Hfootnote}{1}
+\setcounter{bookmark@seq@number}{31}
+\setcounter{section@level}{1}
+}

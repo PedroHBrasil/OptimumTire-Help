@@ -1,0 +1,97 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\@writefile{toc}{\contentsline {chapter}{\numberline {8}References}{135}{chapter.8}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sec:References}{{8}{135}{References}{chapter.8}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.1}Example Files}{135}{section.8.1}}
+\newlabel{sec:ExampleFiles}{{8.1}{135}{Example Files}{section.8.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.2}Coordinate Systems}{135}{section.8.2}}
+\newlabel{sec:CoordinateSystems}{{8.2}{135}{Coordinate Systems}{section.8.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8.1}{\ignorespaces Coordinate Systems (viewed from front)}}{136}{figure.8.1}}
+\newlabel{fig:CoordinateSystems}{{8.1}{136}{Coordinate Systems (viewed from front)}{figure.8.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8.2}{\ignorespaces Common Tire Parameters in different Coordinate Systems}}{137}{figure.8.2}}
+\newlabel{fig:ExampleCoordGraphs}{{8.2}{137}{Common Tire Parameters in different Coordinate Systems}{figure.8.2}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.3}Units}{138}{section.8.3}}
+\newlabel{sec:Units}{{8.3}{138}{Units}{section.8.3}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.1}{\ignorespaces Units in OptimumTire}}{138}{table.8.1}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.2}{\ignorespaces Units in OptimumTire}}{138}{table.8.2}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.3}{\ignorespaces Units in OptimumTire}}{138}{table.8.3}}
+\newlabel{tbl:UnitsInOptimumT}{{8.3}{138}{Units in OptimumTire}{table.8.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.4}Fiala Model}{139}{section.8.4}}
+\newlabel{sec:Fiala}{{8.4}{139}{Fiala Model}{section.8.4}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.4}{\ignorespaces Fiala Model Parameters}}{139}{table.8.4}}
+\newlabel{tbl:FialaModelParameters}{{8.4}{139}{Fiala Model Parameters}{table.8.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.5}Harty Model}{139}{section.8.5}}
+\newlabel{sec:HartyModel}{{8.5}{139}{Harty Model}{section.8.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.5}{\ignorespaces Harty Model Parameters}}{141}{table.8.5}}
+\newlabel{tbl:HartyModelParameters}{{8.5}{141}{Harty Model Parameters}{table.8.5}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.6}Brush Model}{141}{section.8.6}}
+\newlabel{sec:BrushModel}{{8.6}{141}{Brush Model}{section.8.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.6}{\ignorespaces Brush Model Parameters}}{142}{table.8.6}}
+\newlabel{tbl:BrushModelParameters}{{8.6}{142}{Brush Model Parameters}{table.8.6}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.7}Pacejka Models}{142}{section.8.7}}
+\newlabel{sec:PacejkaModels}{{8.7}{142}{Pacejka Models}{section.8.7}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.7}{\ignorespaces Pacejka Model}}{142}{table.8.7}}
+\newlabel{tbl:PacejkaModel}{{8.7}{142}{Pacejka Model}{table.8.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.7.1}Pacejka '96}{143}{subsection.8.7.1}}
+\newlabel{sec:Pacejka96}{{8.7.1}{143}{Pacejka '96}{subsection.8.7.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.7.2}Pacejka 2002}{143}{subsection.8.7.2}}
+\newlabel{sec:Pacejka2002}{{8.7.2}{143}{Pacejka 2002}{subsection.8.7.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.7.3}Pacejka 2002 with Inflation Pressure Effects}{143}{subsection.8.7.3}}
+\newlabel{sec:Pacejka2002withInflationPressureEffects}{{8.7.3}{143}{Pacejka 2002 with Inflation Pressure Effects}{subsection.8.7.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.7.4}Magic Formula 5.2}{143}{subsection.8.7.4}}
+\newlabel{sec:MagicFormula52}{{8.7.4}{143}{Magic Formula 5.2}{subsection.8.7.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.7.5}Magic Formula 6.1}{143}{subsection.8.7.5}}
+\newlabel{sec:MagicFormula61}{{8.7.5}{143}{Magic Formula 6.1}{subsection.8.7.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.7.6}Pacejka 2006}{144}{subsection.8.7.6}}
+\newlabel{sec:Pacejka2006}{{8.7.6}{144}{Pacejka 2006}{subsection.8.7.6}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.8}Pacejka Coefficients}{144}{section.8.8}}
+\newlabel{sec:PacejkaCoefficients}{{8.8}{144}{Pacejka Coefficients}{section.8.8}{}}
+\gdef \LT@iii {\LT@entry 
+    {4}{44.94745pt}\LT@entry 
+    {1}{301.47998pt}\LT@entry 
+    {1}{23.74997pt}\LT@entry 
+    {1}{23.74997pt}\LT@entry 
+    {1}{35.00847pt}\LT@entry 
+    {1}{24.14996pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.8}{Pacejka Coefficents}}{147}{table.8.8}}
+\newlabel{tbl:PacejkaCoefficents}{{8.8}{147}{Pacejka Coefficents}{table.8.8}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8.9}Pacejka Scaling Factors}{147}{section.8.9}}
+\newlabel{sec:PacejkaScalingFactors}{{8.9}{147}{Pacejka Scaling Factors}{section.8.9}{}}
+\gdef \LT@iv {\LT@entry 
+    {2}{45.7157pt}\LT@entry 
+    {1}{301.47998pt}\LT@entry 
+    {1}{23.74997pt}\LT@entry 
+    {1}{23.74997pt}\LT@entry 
+    {1}{35.00847pt}\LT@entry 
+    {1}{24.14996pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {8.9}{Pacejka Scaling Coefficients}}{148}{table.8.9}}
+\newlabel{tbl:PacejkaScalingCoefficients}{{8.9}{148}{Pacejka Scaling Coefficients}{table.8.9}{}}
+\@setckpt{References}{
+\setcounter{page}{149}
+\setcounter{equation}{0}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{8}
+\setcounter{section}{9}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{2}
+\setcounter{table}{9}
+\setcounter{float@type}{4}
+\setcounter{LT@tables}{4}
+\setcounter{LT@chunks}{2}
+\setcounter{parentequation}{0}
+\setcounter{Item}{0}
+\setcounter{Hfootnote}{1}
+\setcounter{bookmark@seq@number}{94}
+\setcounter{section@level}{1}
+}

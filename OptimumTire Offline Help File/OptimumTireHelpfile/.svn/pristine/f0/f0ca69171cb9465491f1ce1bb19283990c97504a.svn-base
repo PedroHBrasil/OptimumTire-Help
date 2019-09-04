@@ -1,0 +1,125 @@
+\relax 
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Graphing}{70}{chapter.4}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sec:Graphing}{{4}{70}{Graphing\relax }{chapter.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Standard Graphs}{70}{section.4.1}}
+\newlabel{sec:StandardGraphs}{{4.1}{70}{Standard Graphs\relax }{section.4.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Types of Standard Graphs}{70}{subsection.4.1.1}}
+\newlabel{sec:TypesofStandardGraphs}{{4.1.1}{70}{Types of Standard Graphs\relax }{subsection.4.1.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Single Direction Line Graph}}{71}{figure.4.1}}
+\newlabel{fig:SingleDirectionLines}{{4.1}{71}{Single Direction Line Graph\relax }{figure.4.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Crossed Line Graph}}{72}{figure.4.2}}
+\newlabel{fig:CrossedLineGraph}{{4.2}{72}{Crossed Line Graph\relax }{figure.4.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Surface Graph}}{73}{figure.4.3}}
+\newlabel{fig:SurfaceGraph}{{4.3}{73}{Surface Graph\relax }{figure.4.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Setting up a Standard Graph}{73}{subsection.4.1.2}}
+\newlabel{sec:SettingupaStandardGraph}{{4.1.2}{73}{Setting up a Standard Graph\relax }{subsection.4.1.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.3}Graph Outputs}{74}{subsection.4.1.3}}
+\newlabel{sec:GraphOutputs}{{4.1.3}{74}{Graph Outputs\relax }{subsection.4.1.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Graph Output Dialog}}{74}{figure.4.4}}
+\newlabel{fig:GraphOutput}{{4.4}{74}{Graph Output Dialog\relax }{figure.4.4}{}}
+\gdef \LT@i {\LT@entry 
+    {2}{209.1831pt}\LT@entry 
+    {1}{77.35066pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{Graph Outputs}}{76}{table.4.1}}
+\newlabel{tbl:GraphOutputs}{{4.1}{76}{Graph Outputs\relax }{table.4.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.4}Graph Inputs}{76}{subsection.4.1.4}}
+\newlabel{sec:GraphInputs}{{4.1.4}{76}{Graph Inputs\relax }{subsection.4.1.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Graph Input Dialog}}{77}{figure.4.5}}
+\newlabel{fig:GraphInputs}{{4.5}{77}{Graph Input Dialog\relax }{figure.4.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Fixed Value Dialog}}{78}{figure.4.6}}
+\newlabel{fig:FixedInput}{{4.6}{78}{Fixed Value Dialog\relax }{figure.4.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Constant Step Sweep Dialog}}{78}{figure.4.7}}
+\newlabel{fig:ConstantStepSweep}{{4.7}{78}{Constant Step Sweep Dialog\relax }{figure.4.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Custom Sweep Dialog}}{79}{figure.4.8}}
+\newlabel{fig:CustomSweep}{{4.8}{79}{Custom Sweep Dialog\relax }{figure.4.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.5}Plotting Raw Data}{80}{subsection.4.1.5}}
+\newlabel{sec:PlottingRawData}{{4.1.5}{80}{Plotting Raw Data\relax }{subsection.4.1.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces Plot All Data Option in Project Tree}}{80}{figure.4.9}}
+\newlabel{fig:ProjectTreePlotAllData}{{4.9}{80}{Plot All Data Option in Project Tree\relax }{figure.4.9}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces Project Item Setup}}{81}{figure.4.10}}
+\newlabel{fig:ProjectItemSetup}{{4.10}{81}{Project Item Setup\relax }{figure.4.10}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.6}Copy Graph Inputs from Collapsed Data}{81}{subsection.4.1.6}}
+\newlabel{sec:CopyGraphInputsfromCollapsedData}{{4.1.6}{81}{Copy Graph Inputs from Collapsed Data\relax }{subsection.4.1.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.11}{\ignorespaces Copy Inputs from Collapsed Data Button}}{82}{figure.4.11}}
+\newlabel{fig:CopyFromCollapsedButton}{{4.11}{82}{Copy Inputs from Collapsed Data Button\relax }{figure.4.11}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.12}{\ignorespaces Copy Inputs from Collapsed Data Window}}{83}{figure.4.12}}
+\newlabel{fig:CopyFromCollapsed}{{4.12}{83}{Copy Inputs from Collapsed Data Window\relax }{figure.4.12}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.7}Linking Graphs}{83}{subsection.4.1.7}}
+\newlabel{sec:LinkingGraphs}{{4.1.7}{83}{Linking Graphs\relax }{subsection.4.1.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.13}{\ignorespaces Linking Graphs}}{84}{figure.4.13}}
+\newlabel{fig:LinkGraphs}{{4.13}{84}{Linking Graphs\relax }{figure.4.13}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.8}Coloring Graphs}{84}{subsection.4.1.8}}
+\newlabel{sec:ColoringGraphs}{{4.1.8}{84}{Coloring Graphs\relax }{subsection.4.1.8}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.14}{\ignorespaces Plot All Data Option}}{85}{figure.4.14}}
+\newlabel{fig:CustomColor}{{4.14}{85}{Plot All Data Option\relax }{figure.4.14}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.15}{\ignorespaces Color Setup}}{86}{figure.4.15}}
+\newlabel{fig:ColorOptions}{{4.15}{86}{Color Setup\relax }{figure.4.15}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.16}{\ignorespaces Hue}}{87}{figure.4.16}}
+\newlabel{fig:Hue}{{4.16}{87}{Hue\relax }{figure.4.16}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.17}{\ignorespaces Luminosity}}{87}{figure.4.17}}
+\newlabel{fig:Luminosity}{{4.17}{87}{Luminosity\relax }{figure.4.17}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.18}{\ignorespaces Saturation}}{87}{figure.4.18}}
+\newlabel{fig:Saturation}{{4.18}{87}{Saturation\relax }{figure.4.18}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.9}Graph Templates}{87}{subsection.4.1.9}}
+\newlabel{sec:GraphTemplates}{{4.1.9}{87}{Graph Templates\relax }{subsection.4.1.9}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.19}{\ignorespaces Graph Templates}}{88}{figure.4.19}}
+\newlabel{fig:GraphTemplates}{{4.19}{88}{Graph Templates\relax }{figure.4.19}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Report Graphs}{88}{section.4.2}}
+\newlabel{sec:ReportGraphs}{{4.2}{88}{Report Graphs\relax }{section.4.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.20}{\ignorespaces Report Graph}}{89}{figure.4.20}}
+\newlabel{fig:ReportGraph}{{4.20}{89}{Report Graph\relax }{figure.4.20}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Graph Area Options}{89}{section.4.3}}
+\newlabel{sec:GraphAreaOptions}{{4.3}{89}{Graph Area Options\relax }{section.4.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.21}{\ignorespaces Graph Area Options}}{90}{figure.4.21}}
+\newlabel{fig:GraphAreaOptionsLabeled}{{4.21}{90}{Graph Area Options\relax }{figure.4.21}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}Display Legend}{90}{subsection.4.3.1}}
+\newlabel{sec:DisplayLegend}{{4.3.1}{90}{Display Legend\relax }{subsection.4.3.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.22}{\ignorespaces Graph Legend for two Data Sweeps}}{91}{figure.4.22}}
+\newlabel{fig:GraphLegend}{{4.22}{91}{Graph Legend for two Data Sweeps\relax }{figure.4.22}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.23}{\ignorespaces Graph Legend for one Data Sweep}}{92}{figure.4.23}}
+\newlabel{fig:OverrideLegendName}{{4.23}{92}{Graph Legend for one Data Sweep\relax }{figure.4.23}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}Axis Zero Cross}{92}{subsection.4.3.2}}
+\newlabel{sec:AxisZeroCross}{{4.3.2}{92}{Axis Zero Cross\relax }{subsection.4.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.24}{\ignorespaces Zero Cross Axis}}{93}{figure.4.24}}
+\newlabel{fig:ZeroCross}{{4.24}{93}{Zero Cross Axis\relax }{figure.4.24}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.3}Data Selection Cursor}{93}{subsection.4.3.3}}
+\newlabel{sec:DataSelectionCursor}{{4.3.3}{93}{Data Selection Cursor\relax }{subsection.4.3.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.25}{\ignorespaces Data Cursor Selection}}{94}{figure.4.25}}
+\newlabel{fig:DataSelection}{{4.25}{94}{Data Cursor Selection\relax }{figure.4.25}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.4}Copy and Print Graphs}{94}{subsection.4.3.4}}
+\newlabel{sec:CopyandPrintGraphs}{{4.3.4}{94}{Copy and Print Graphs\relax }{subsection.4.3.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.26}{\ignorespaces Right Click Options}}{95}{figure.4.26}}
+\newlabel{fig:RightClickOptions}{{4.26}{95}{Right Click Options\relax }{figure.4.26}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.5}Export Graph Data}{95}{subsection.4.3.5}}
+\newlabel{sec:ExportGraphData}{{4.3.5}{95}{Export Graph Data\relax }{subsection.4.3.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.27}{\ignorespaces Excel Export Format}}{96}{figure.4.27}}
+\newlabel{fig:ExcelExport}{{4.27}{96}{Excel Export Format\relax }{figure.4.27}{}}
+\@setckpt{graphing}{
+\setcounter{page}{97}
+\setcounter{equation}{0}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{4}
+\setcounter{section}{3}
+\setcounter{subsection}{5}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{27}
+\setcounter{table}{1}
+\setcounter{float@type}{4}
+\setcounter{LT@tables}{1}
+\setcounter{LT@chunks}{4}
+\setcounter{parentequation}{0}
+\setcounter{Item}{0}
+\setcounter{Hfootnote}{1}
+\setcounter{bookmark@seq@number}{48}
+\setcounter{section@level}{2}
+}

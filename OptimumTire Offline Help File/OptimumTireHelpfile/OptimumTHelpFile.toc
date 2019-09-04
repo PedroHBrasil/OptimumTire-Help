@@ -1,0 +1,96 @@
+\select@language {USenglish}
+\contentsline {chapter}{Welcome}{3}{chapter*.1}
+\contentsline {chapter}{Introduction}{9}{chapter*.5}
+\contentsline {chapter}{Installation Requirements}{10}{chapter*.6}
+\contentsline {chapter}{License}{12}{chapter*.18}
+\contentsline {chapter}{\numberline {1}Screen Layout}{14}{chapter.1}
+\contentsline {section}{\numberline {1.1}Tire Project Tree}{16}{section.1.1}
+\contentsline {section}{\numberline {1.2}Data Entry Form}{19}{section.1.2}
+\contentsline {section}{\numberline {1.3}Worksheets}{19}{section.1.3}
+\contentsline {chapter}{\numberline {2}Raw Tire Data}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Importing Data}{23}{section.2.1}
+\contentsline {section}{\numberline {2.2}Importing TYDEX Data}{25}{section.2.2}
+\contentsline {section}{\numberline {2.3}Data Cropping}{27}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Data Cropping Templates}{29}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Data Collapsing}{30}{section.2.4}
+\contentsline {section}{\numberline {2.5}Exporting Data}{35}{section.2.5}
+\contentsline {chapter}{\numberline {3}Tire Models}{36}{chapter.3}
+\contentsline {section}{\numberline {3.1}Manually Input Model}{36}{section.3.1}
+\contentsline {section}{\numberline {3.2}Import and Export Models}{39}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Export Templates}{41}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Excel Export Templates}{42}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Fitting Models to Raw Data}{43}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Pure Lateral Model}{43}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Aligning Torque Model}{55}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Model Scaling Factors}{59}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Pure and Combined Longitudinal Model}{63}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Combined Lateral Model}{66}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Additional Models}{68}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}Model Fitting Order}{69}{section.3.4}
+\contentsline {section}{\numberline {3.5}Model Coefficient Form}{71}{section.3.5}
+\contentsline {section}{\numberline {3.6}Adjusting Models}{72}{section.3.6}
+\contentsline {section}{\numberline {3.7}Creating Coefficient Boundaries From an Existing Model}{74}{section.3.7}
+\contentsline {chapter}{\numberline {4}Graphing}{77}{chapter.4}
+\contentsline {section}{\numberline {4.1}Standard Graphs}{77}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Types of Standard Graphs}{77}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Setting up a Standard Graph}{81}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Graph Outputs}{82}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Graph Inputs}{84}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Plotting Raw Data}{86}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Copy Graph Inputs from Collapsed Data}{88}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Linking Graphs}{89}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Coloring Graphs}{90}{subsection.4.1.8}
+\contentsline {subsection}{\numberline {4.1.9}Graph Templates}{94}{subsection.4.1.9}
+\contentsline {section}{\numberline {4.2}Report Graphs}{95}{section.4.2}
+\contentsline {section}{\numberline {4.3}Graph Area Options}{96}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Display Legend}{98}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Axis Zero Cross}{99}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Data Selection Cursor}{100}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Copy and Print Graphs}{101}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Export Graph Data}{102}{subsection.4.3.5}
+\contentsline {chapter}{\numberline {5}Custom Models}{104}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction to Custom Models}{104}{section.5.1}
+\contentsline {section}{\numberline {5.2}Creating Custom Models}{104}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Software Requirements}{105}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Creating the Custom Model Project}{105}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Referencing the Custom Model Template}{108}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Creating a Coefficient File}{109}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Creating a Calculation File}{113}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Common Programming Errors}{114}{subsection.5.2.6}
+\contentsline {section}{\numberline {5.3}Importing Custom Models in OptimumTire}{115}{section.5.3}
+\contentsline {section}{\numberline {5.4}The Custom Model Fitting Process}{116}{section.5.4}
+\contentsline {section}{\numberline {5.5}Custom Model Import and Export}{116}{section.5.5}
+\contentsline {chapter}{\numberline {6}Additional Features}{117}{chapter.6}
+\contentsline {section}{\numberline {6.1}OptimumTire Add-in}{117}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Using the Add-in with Excel}{119}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Matlab COM Add-in}{126}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Using the COM Addin in Programs}{128}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Template Manager}{130}{section.6.2}
+\contentsline {section}{\numberline {6.3}Project Backups}{132}{section.6.3}
+\contentsline {section}{\numberline {6.4}Error Evaluation}{134}{section.6.4}
+\contentsline {section}{\numberline {6.5}Lookup Table Export}{135}{section.6.5}
+\contentsline {chapter}{\numberline {7}Tips and Tricks}{139}{chapter.7}
+\contentsline {section}{\numberline {7.1}Plot All Data}{139}{section.7.1}
+\contentsline {section}{\numberline {7.2}Large Tolerance Graph Inputs}{140}{section.7.2}
+\contentsline {section}{\numberline {7.3}Override Default Name in Legend}{140}{section.7.3}
+\contentsline {section}{\numberline {7.4}Changing Units}{141}{section.7.4}
+\contentsline {section}{\numberline {7.5}Preview Model Coefficient Change}{142}{section.7.5}
+\contentsline {section}{\numberline {7.6}Hide Axis Values}{143}{section.7.6}
+\contentsline {section}{\numberline {7.7}Importing Multiple Data Files}{144}{section.7.7}
+\contentsline {chapter}{\numberline {8}References}{145}{chapter.8}
+\contentsline {section}{\numberline {8.1}Example Files}{145}{section.8.1}
+\contentsline {section}{\numberline {8.2}Coordinate Systems}{145}{section.8.2}
+\contentsline {section}{\numberline {8.3}Units}{147}{section.8.3}
+\contentsline {section}{\numberline {8.4}Fiala Model}{148}{section.8.4}
+\contentsline {section}{\numberline {8.5}Harty Model}{149}{section.8.5}
+\contentsline {section}{\numberline {8.6}Brush Model}{151}{section.8.6}
+\contentsline {section}{\numberline {8.7}Pacejka Models}{152}{section.8.7}
+\contentsline {subsection}{\numberline {8.7.1}Pacejka '96}{153}{subsection.8.7.1}
+\contentsline {subsection}{\numberline {8.7.2}Pacejka 2002}{153}{subsection.8.7.2}
+\contentsline {subsection}{\numberline {8.7.3}Pacejka 2002 with Inflation Pressure Effects}{153}{subsection.8.7.3}
+\contentsline {subsection}{\numberline {8.7.4}Magic Formula 5.2}{153}{subsection.8.7.4}
+\contentsline {subsection}{\numberline {8.7.5}Magic Formula 6.1}{153}{subsection.8.7.5}
+\contentsline {subsection}{\numberline {8.7.6}Pacejka 2006}{154}{subsection.8.7.6}
+\contentsline {section}{\numberline {8.8}Pacejka Coefficients}{154}{section.8.8}
+\contentsline {section}{\numberline {8.9}Pacejka Scaling Factors}{157}{section.8.9}
+\contentsline {chapter}{Additional Information}{159}{chapter*.41}

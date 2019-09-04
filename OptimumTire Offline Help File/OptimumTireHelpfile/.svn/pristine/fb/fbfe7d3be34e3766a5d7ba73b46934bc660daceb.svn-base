@@ -1,0 +1,14 @@
+\section*{Feedback}
+\label{sec:Feedback}
+OptimumT is a continually developing program and we give high regard to any suggestions, comments, complaints or criticisms that OptimumT users might have. Please contact us at~\href{mailto: engineering@optimumg.com}{engineering@optimumg.com} and we will work to improve OptimumT based on your feedback.
+
+\section*{Features Coming Soon}
+\label{sec:FeaturesComingSoon}
+
+The following is a list of features that will be available in future updates. Please contact us if you have any suggestions on other features that should be included in OptimumT in the future.
+\begin{itemize}
+	\item Additional Tire Models
+	\item Import and Export from TYDEX Files
+	\item	Automated Reports
+	\item	Embeddable Live Graphs
+\end{itemize}

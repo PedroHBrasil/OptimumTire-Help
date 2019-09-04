@@ -1,0 +1,93 @@
+\select@language {USenglish}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Project Screen}}{13}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Screen Layout}}{14}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Project Tree}}{15}{figure.1.3}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Project Tree Buttons}}{16}{figure.1.4}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Tire Item Data Entry Form}}{17}{figure.1.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Raw Tire Data Form Before Collapsing}}{20}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces CSV Import Options}}{21}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Data Import Wizard}}{22}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Data Cropping Tool}}{24}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Cropped Data}}{25}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Raw Data Before Collapsing}}{27}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Collapsed Data}}{28}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Data Collapsing Tool}}{29}{figure.2.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Sorted Data}}{30}{figure.2.9}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Setting Discretization Range}}{31}{figure.2.10}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Summary of Collapsed Data in the Data Entry Form}}{32}{figure.2.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tire Model Input Form}}{36}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Import Tire Model}}{37}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Selecting the Tire Model to be Fit}}{38}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Model Fitting Selection}}{39}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Model Constraints}}{40}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Coefficient Boundary}}{41}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Coefficient Boundary Editor}}{42}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Solver Parameters and Error Evaluation}}{43}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Model Fitting Convergence and Error}}{45}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Lateral Force vs. Slip Angle at Different Inclination Angles}}{46}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Lateral Force vs. Normal Load at Different Slip Angles}}{47}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Advanced Fitting Options}}{48}{figure.3.12}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Specify Coefficients to be Fit}}{49}{figure.3.13}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Aligning Torque vs. Slip Angle at Different Inclination Angles}}{50}{figure.3.14}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Lateral Force vs. Slip Angle for the Model and Data before Scaling}}{51}{figure.3.15}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces New Scaling Factor}}{53}{figure.3.16}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Lateral Force vs. Slip Angle for the Model and Data after Scaling}}{54}{figure.3.17}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Fitting Multiple Models Simultaneously}}{56}{figure.3.18}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Longitudinal Force vs. Slip Angle at Different Slip Angles}}{57}{figure.3.19}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Longitudinal Force vs. Normal Load at Different Slip Ratios}}{58}{figure.3.20}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Fitting with a Scaling Factor}}{59}{figure.3.21}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Friction Ellipse}}{60}{figure.3.22}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Model Fitting Requirements}}{62}{figure.3.23}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Model Coefficient Form}}{64}{figure.3.24}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Model Adjustment Preview Feature}}{65}{figure.3.25}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Single Direction Line Graph}}{67}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Crossed Line Graph}}{68}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Surface Graph}}{69}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Graph Output Dialog}}{70}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Graph Input Dialog}}{73}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Fixed Value Dialog}}{74}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Constant Step Sweep Dialog}}{74}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Custom Sweep Dialog}}{75}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Plot All Data Option in Project Tree}}{76}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Project Item Setup}}{77}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Copy Inputs from Collapsed Data Button}}{78}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Copy Inputs from Collapsed Data Window}}{79}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Linking Graphs}}{80}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Plot All Data Option}}{81}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Color Setup}}{82}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Hue}}{83}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Luminosity}}{83}{figure.4.17}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Saturation}}{83}{figure.4.18}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Graph Templates}}{84}{figure.4.19}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Report Graph}}{85}{figure.4.20}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Graph Area Options}}{86}{figure.4.21}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Graph Legend for two Data Sweeps}}{87}{figure.4.22}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Graph Legend for one Data Sweep}}{88}{figure.4.23}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Zero Cross Axis}}{89}{figure.4.24}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Data Cursor Selection}}{90}{figure.4.25}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Right Click Options}}{91}{figure.4.26}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Excel Export Format}}{92}{figure.4.27}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Excel Options}}{94}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Excel Add-Ins}}{95}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Implementing the OptimumT Add-In}}{96}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Inserting OptimumT Functions into Excel}}{97}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces OptimumT Add-in Input Parameters}}{98}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Encoded String that represents the Model Coefficients}}{98}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Export the Encoded Model Coefficients from OptimumT}}{99}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Template Manager}}{100}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Error Evaluation}}{101}{figure.5.9}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Plot All Data Option in the Project Tree}}{103}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Plot All Data Option in the Project Item Setup}}{103}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Override Default Name in Legend}}{105}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Custom Tire Model Name}}{106}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Preview Model Coefficient Change}}{107}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Hide Axis Values}}{108}{figure.6.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Coordinate Systems (viewed from front)}}{110}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Common Tire Parameters in different Coordinate Systems}}{111}{figure.7.2}

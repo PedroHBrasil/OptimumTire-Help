@@ -1,0 +1,17 @@
+
+\begin{titlepage}
+\definecolor{darkblue}{RGB}{0,0,64}
+
+\includegraphics[width=0.9\textwidth]{OptimumT_Logo_full_text.png}
+\ \\
+\vspace{0.8 in}
+\begin{center}
+\Huge{\textcolor{darkblue}{\textbf{Help File \\ Version 1.1}}}
+\ \\
+\vspace{1.6 in}
+\large By \\
+\includegraphics[width=0.7\textwidth]{OptimumGlogo.png}
+~\href{mailto: engineering@optimumg.com}{engineering@optimumg.com}\\
+~\href{http://www.optimumg.com}{www.optimumg.com}\\
+\end{center}
+\end{titlepage}

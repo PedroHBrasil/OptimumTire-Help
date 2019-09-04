@@ -1,0 +1,12 @@
+
+\chapter*{Welcome}
+\label{sec:Welcome}
+\addcontentsline{toc}{chapter}{Welcome}
+
+
+Thank you for purchasing OptimumTire the new benchmark in tire model fitting and analysis. This help file contains information about all the functions and features of OptimumTire. Included in this help file are:
+\begin{itemize}
+	\item Information on how to use OptimumTire 
+	\item Special Features in OptimumTire
+	\item Tips and tricks on how to use OptimumTire efficiently
+\end{itemize}
