@@ -43,7 +43,7 @@ The following is a list of features that will be available in future updates. Pl
     * [Data Collapsing](3_Raw_Tire_Data/D_Data_Collapsing.md)
     * [Exporting Data](3_Raw_Tire_Data/E_Exporting_Data.md)
 4. [Tire Models](4_Tire_Models/4_Tire_Models.md)
-    * [Manually Import Model](4_Tire_Models/A_Manually_Import_Model.md)
+    * [Manually Input Model](4_Tire_Models/A_Manually_Input_Model.md)
     * [Import And Export Models](4_Tire_Models/B_Import_And_Export_Models.md)
     * [Fitting Models to Raw Data](4_Tire_Models/C_Fitting_Models_To_Raw_Data.md)
     * [Model Fitting Order](4_Tire_Models/D_Model_Fitting_Order.md)
