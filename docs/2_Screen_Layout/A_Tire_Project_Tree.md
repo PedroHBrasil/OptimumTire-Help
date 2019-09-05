@@ -30,4 +30,4 @@ Like the tire item when any of the raw data, tire models, or scaling factors is 
 
 To add items to the project, the buttons above the project tree can be used. The figure below shows these buttons. The three buttons furthest to the right will only be enabled when an item in the project tree is selected.
 
-![Project Tree Buttons](../img/2_Screen_Layout/2_C_project_tree.png)
+![Project Tree Buttons](../img/2_Screen_Layout/2_A_project_tree_buttons.png)
