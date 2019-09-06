@@ -162,7 +162,7 @@ Constant step sweep graph inputs generate a set of evenly spaced points between 
 
 ![Constant Step Sweep Dialog](../img/5_Graphing/5_A_constant_step_sweep_dialog.png)
 
-### Custom sweep Graph Inputs
+### Custom Sweep Graph Inputs
 
 A custom sweep graph input allows you to specify a number of arbitrary values. The figure below shows the custom sweep dialog. You can specify any number of values by typing them into the table. Additional rows can be added by clicking on the green __+__ and rows can be removed by clicking on the red __-__ above the input list. Like the fixed value graph input, custom sweep graph inputs have data tolerances.
 
