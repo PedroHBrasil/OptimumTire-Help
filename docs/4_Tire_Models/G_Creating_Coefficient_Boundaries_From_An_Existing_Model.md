@@ -1,5 +1,5 @@
 ---
-Title: Creatig Coefficient Boundaries From an Existing Model
+Title: Creating Coefficient Boundaries From an Existing Model
 summary: This section describes how to create coefficient boundaries from an existing tire model.
 authors:
     - Pedro Brasil   
