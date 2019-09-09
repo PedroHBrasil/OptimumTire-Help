@@ -1,5 +1,5 @@
 ---
-Title: Creating CustommModels
+Title: Creating Custom Models
 summary: This section details how to create custom models.
 authors:
     - Pedro Brasil   
