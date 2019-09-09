@@ -20,7 +20,7 @@ The custom model template is written in Visual C# a CLI (Common Language Infrast
 
 OptimumTire requires two files: a __Coefficient File__ and a __Calculation File__ to define a model. The following sections outline how to create these files.
 
-## Creating the Custm Model Project
+## Creating the Custom Model Project
 
 The first step in creating custom model is to create a new C# project with the coefficient and calculation classes. To do this open Visual Studio or Visual C#. Create a new model from the file menu, select C# Class Library and enter the name of your model as shown.
 
