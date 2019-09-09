@@ -16,4 +16,4 @@ Selecting the __Custom Model__ item from the dropdown will bring up the __Custom
 
 ![Custom Tire Model Selection](../img/6_Custom_Models/6_C_custom_tire_model_selection.png)
 
-The main differences in the custom fitting process are the constraints and boundary files. Which coefficients appear in the __Constraints Wizard__ will depend on the __Constraint Boolean__ specified in the coefficient file created by the user (see [Creating a Coefficient File](../6_Custom_Models/A_Creating_Custom_Models#Creating-a-Coefficient-File)). Also the boundaries wizard will not contain predefined templates so a new boundary must be created for each new custom model.
+The main differences in the custom fitting process are the constraints and boundary files. Which coefficients appear in the __Constraints Wizard__ will depend on the __Constraint Boolean__ specified in the coefficient file created by the user (see [Creating a Coefficient File](../6_Custom_Models/A_Creating_Custom_Models.md#Creating-a-Coefficient-File)). Also the boundaries wizard will not contain predefined templates so a new boundary must be created for each new custom model.
