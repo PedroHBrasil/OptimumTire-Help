@@ -1,5 +1,5 @@
 ---
-Title: Pacejka Scalling Factors
+Title: Pacejka Scaling Factors
 summary: This section details the Pacejka Scalling Factors.
 authors:
     - Pedro Brasil   
@@ -18,7 +18,7 @@ MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
 
-# Pacejka Scalling Factors
+# Pacejka Scaling Factors
 
 The table below gives a summary of the Pacejka scaling coefficients. The default value for all of these coefficients is 1 except for $\lambda\mu V$, which is 0.
 
