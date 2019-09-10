@@ -62,6 +62,8 @@ $$ if( V > 0) \rightarrow M_{y}=-C_{r}F_{z} $$
 
 $$ if( V < 0) \rightarrow M_{y}=C_{r}F_{z} $$
 
+## Parameters
+
 The Harty model requires 14 parameters to model the tire:
 
 |Harty Model Parameter|Unit Type|
