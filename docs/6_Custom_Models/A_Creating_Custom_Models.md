@@ -16,7 +16,7 @@ An example project is included with OptimumTire to provide an example that users
 
 ## Software Requirements
 
-The custom model template is written in Visual C# a CLI (Common Language Infrastructure) language. In order to create a custom model the user must first download a version of Visual C# by Microsoft. This software is available as a free Express Edition for the general user or Visual Studio Professional Edition for professional software developers. For the purposes of creating OptimumTire custom models the Visual C# Express Edition is sufficient. The download is available at the following site: [www.microsoft.com/express/Downloads](www.microsoft.com/express/Downloads).
+The custom model template is written in Visual C# a CLI (Common Language Infrastructure) language. In order to create a custom model the user must first download a version of Visual C# by Microsoft. This software is available as a free Express Edition for the general user or Visual Studio Professional Edition for professional software developers. For the purposes of creating OptimumTire custom models the Visual C# Express Edition is sufficient. The download is available at the following site: [visualstudio.microsoft.com/downloads/](https://visualstudio.microsoft.com/downloads/).
 
 OptimumTire requires two files: a __Coefficient File__ and a __Calculation File__ to define a model. The following sections outline how to create these files.
 
@@ -154,4 +154,4 @@ The following are common errors made when programming in C#. Check the following
 * Each function must have the correct signature. Use intellisense to make sure that each
 function passes all the required parameters.
 
-For more information on programming in C# see [www.msdn.com](www.msdn.com).
+For more information on programming in C# see [www.msdn.com](https://www.msdn.com).
