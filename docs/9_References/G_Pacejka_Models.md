@@ -20,7 +20,7 @@ MathJax = {
 
 # Pacejka Models
 
-The Pacejka "Magic Formula" tire models are empirical relations that model the steady-state forces and moments produced by the tire as a function of the tire conditions (i.e. slip angle, slip ratio, inclination angle, etc...). These models include combined longitudinal and lateral force effects, inclination angle effects, lateral and longitudinal force offset, and tire load sensitivity. The primary form for the Pacejka models is given in the equations below. The tables following these equations describes the various parameters.
+The Pacejka "Magic Formula" tire models are empirical relations that model the steady-state forces and moments produced by the tire as a function of the tire conditions (i.e. slip angle, slip ratio, inclination angle, etc...). These models include combined longitudinal and lateral force effects, inclination angle effects, lateral and longitudinal force offset, and tire load sensitivity. The primary form for the Pacejka models is given in the equations below. The table following these equations describes the various parameters.
 
 $$ y=D\sin \left\\{ C\arctan\left[Bx-E\left(Bx-\arctan{Bx}\right)\right] \right\\} $$
 
@@ -48,17 +48,10 @@ $$ x=X+S_H $$
             <td style="text-align:center">Input</td>
             <td style="text-align:left">Slip ratio or tangent slip angle</td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
         <tr>
             <th colspan="2" style="text-align:center">Parameter</th>
             <th style="text-align:center">Description</th> 
         </tr>
-    </thead>
-    <tbody>
         <tr>
             <td style="text-align:center">B</td>
             <td style="text-align:center">Stiffness Factor</td>
