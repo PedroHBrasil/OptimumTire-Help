@@ -72,7 +72,41 @@ The __Vibrate Solution__ option will cause a small random variation to be applie
 
 The __Error Evaluation__ can now be selected. This determines what type of error criteria is used when fitting the model. The four types of error criteria included in OptimumTire are described below. In the equations, __Model__ represents the value found by the model fitter and Data represents the value of the actual raw data.
 
-Typically, the __Least Squares Error__ criteria will result in the best overall model fit. However, depending on the variance and testing conditions of the raw data some of the other error criteria may produce a better fit. For example, when fitting an aligning torque model __Total Error__ will often produce slightly better results. The __Normalized Error__ criteria gives equal weight to all the data points. Therefore, it will improve the model fitting at lower loads. In the case that a weighting function is used, the error evaluation is modified to be the following. The weighting is denoted as __ and is evaluated for each data point separately.
+* Least Squares Error:
+
+$$ Error=\frac{\sqrt{\sum\left(Model-Data\right)^2}}{\sum\left|Data\right|} $$
+
+* Normalized Least Squares Error:
+
+$$ Error=\frac{\sqrt{\sum\left(\frac{Model-Data}{Data}\right)^2}}{Amount Of Data Points} $$
+
+* Total Error:
+
+$$ Error=\frac{\sum\left|Model-Data\right|}{\sum\left|Data\right|} $$
+
+* Normalized Total Error:
+
+$$ Error= \frac{\sum\left|\frac{Model-Data}{Data}\right|}{Amount Of Data Points} $$
+
+Typically, the __Least Squares Error__ criteria will result in the best overall model fit. However, depending on the variance and testing conditions of the raw data some of the other error criteria may produce a better fit. For example, when fitting an aligning torque model __Total Error__ will often produce slightly better results. The __Normalized Error__ criteria gives equal weight to all the data points. Therefore, it will improve the model fitting at lower loads.
+
+In the case that a weighting function is used, the error evaluation is modified to be the following. The weighting is denoted as __ and is evaluated for each data point separately.
+
+* Least Squares Error:
+
+$$ Error=\frac{\sqrt{\sum w_i \left(Model-Data\right)^2}}{\sum\left|Data\right|} $$
+
+* Normalized Least Squares Error:
+
+$$ Error=\frac{\sqrt{\sum w_i \left(\frac{Model-Data}{Data}\right)^2}}{Amount Of Data Points} $$
+
+* Total Error:
+
+$$ Error=\frac{\sum w_i \left|Model-Data\right|}{\sum\left|Data\right|} $$
+
+* Normalized Total Error:
+
+$$ Error= \frac{\sum w_i \left|\frac{Model-Data}{Data}\right|}{Amount Of Data Points} $$
 
 ### Model Fitting
 
