@@ -68,6 +68,6 @@ nav:
       - Pacejka Scalling Factors: 9_References/I_Pacejka_Scaling_Factors.md
       - Additional Information: 9_References/J_Additional_Information.md
 
-theme: readthedocs
+theme: material
 
 use_directory_urls: false
