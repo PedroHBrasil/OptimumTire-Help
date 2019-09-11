@@ -6,7 +6,7 @@ authors:
 date: 2019/9/5
 ---
 
-# Tire Projct Tree
+# Tire Project Tree
 
 The tire project tree contains all the raw data, tire models, and scaling factors contained within the OptimumTire project. Raw data and tire models are organized by the tire item. The tire items can be seen more closely in the figure.
 
