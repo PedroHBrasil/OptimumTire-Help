@@ -68,6 +68,32 @@ nav:
       - Pacejka Scalling Factors: 9_References/I_Pacejka_Scaling_Factors.md
       - Additional Information: 9_References/J_Additional_Information.md
 
-theme: material
+theme: 
+  name: material
+  palette: 
+    primary: 'green'
+    accent: 'green'
+  logo: 'img/optimum_tire_icon.svg'
+  favicon: 'img/OptimumTire.ico'
+
+repo_name: 'Need further assistance?'
+repo_url: 'http://www.optimumg.com/contact/software-support/'
+
+extra:
+  social:
+    - type: 'globe'
+      link: 'http://www.optimumg.com/'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/OptimumG/'
+    - type: 'twitter'
+      link: 'https://twitter.com/g_optimum'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/optimumg/?hl=en'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company/optimumg'
+
+copyright: 'Copyright © OptimumG 2019'
 
 use_directory_urls: false
+
+extra_css: [extra.css]
