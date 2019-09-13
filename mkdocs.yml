@@ -69,12 +69,19 @@ nav:
       - Additional Information: 9_References/J_Additional_Information.md
 
 theme: 
-  name: material
+  name: null
+  custom_dir: 'mkdocs-material/material'
   palette: 
     primary: 'green'
     accent: 'green'
   logo: 'img/optimum_tire_icon.svg'
   favicon: 'img/OptimumTire.ico'
+  language: 'en'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  feature:
+    tabs: false
 
 repo_name: 'Need further assistance?'
 repo_url: 'http://www.optimumg.com/contact/software-support/'
